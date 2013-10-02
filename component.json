@@ -1,0 +1,12 @@
+{
+  "name": "Gruig",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "git://github.com/components/jquery.git#2.0.3",
+    "bootstrap": "git://github.com/twbs/bootstrap.git#3.0.0",
+    "modernizr": "git://github.com/Modernizr/Modernizr.git#2.6.2",
+    "bootstrap-sass": "git://github.com/jlong/sass-twitter-bootstrap#3.0.0",
+    "es5-shim": "git://github.com/kriskowal/es5-shim#2.0.12",
+    "json3": "git://github.com/bestiejs/json3.git#3.2.5"
+  }
+}
