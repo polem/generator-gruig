@@ -2,8 +2,6 @@
 var util = require('util');
 var path = require('path');
 var yeoman = require('yeoman-generator');
-var _ = require('lodash');
-
 
 var GruigGenerator = module.exports = function GruigGenerator(args, options, config) {
   yeoman.generators.Base.apply(this, arguments);
